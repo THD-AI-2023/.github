@@ -2,6 +2,8 @@
 
 Welcome to the student-run GitHub organization for the 2023 cohort of English-taught Artificial Intelligence students at TH Deggendorf!
 
+![DALL·E 2023-10-16 23 53 28 - Oil painting of a modern take on 'The Creation of Adam'  Students in THD hoodies and casual attire on one side reach out with hope and interest  On th](https://github.com/THD-AI-2023/.github/assets/66517969/1420dfd5-b426-4b9e-a27f-a99812c82088)
+
 ## About :book:
 
 This unofficial organization serves as a collaborative platform where students can:
