@@ -1,0 +1,41 @@
+name: General Question or Concern
+description: Have a general question or concern? Use this template to get help.
+title: "[QUESTION]"
+labels: ["question"]
+assignees: 
+  - HlexNC
+body:
+  - type: markdown
+    attributes:
+      value: "If you have a general question or concern regarding the THD-AI-2023 community, please use the form below to provide details. We're here to help!"
+  - type: textarea
+    attributes:
+      label: Description
+      description: "Please provide a clear and concise description of your question or concern."
+      placeholder: "Describe your question or concern..."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: "Provide any other context or background information that could help us understand your question or concern better. This could be about a course, an assignment, or any aspect of the THD-AI-2023 community."
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      label: Screenshots
+      description: "If your question or concern is related to something specific you saw online, on GitHub, or in course material, please attach a screenshot. You can attach more than one file if necessary."
+  - type: input
+    attributes:
+      label: Tags
+      description: "Optionally, add tags to help categorize your question (e.g., 'assignment', 'technical issue', 'course content'). Separate tags with commas."
+      placeholder: "e.g., assignment, technical issue"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Previous Efforts
+      description: "If you've attempted to find an answer to your question or solve your concern before submitting this issue, please let us know what you've tried. This helps avoid redundancy and can lead to a quicker resolution."
+      placeholder: "Describe any previous efforts..."
+    validations:
+      required: false
