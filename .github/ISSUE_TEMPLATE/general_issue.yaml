@@ -21,10 +21,6 @@ body:
       description: "Provide any other context or background information that could help us understand your question or concern better. This could be about a course, an assignment, or any aspect of the THD-AI-2023 community."
     validations:
       required: false
-  - type: markdown
-    attributes:
-      label: Screenshots
-      description: "If your question or concern is related to something specific you saw online, on GitHub, or in course material, please attach a screenshot. You can attach more than one file if necessary."
   - type: input
     attributes:
       label: Tags
